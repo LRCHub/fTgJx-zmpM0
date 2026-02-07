@@ -1,0 +1,83 @@
+# ワン・ダイレクション – ハッピリー
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+You don't understand
+you don't understand
+What you do to me
+when you hold his hand
+We were meant to be
+but a twist of fate
+Made it so we had to walk away
+'Cause we're on fire
+we're on on fire
+We're on fire now
+Yeah we're on fire we are on
+fire
+We're on fire now
+1 2 3
+I don't care what people say
+when we're together
+You know I wanna be the one who
+hold you when you sleep
+I just want it to be you and I
+forever
+I know you wanna leave so come
+on baby
+be with me so happily
+It's 4am and I know that you're
+with him
+I wonder if he knows that I
+touched your skin
+And if he feels my traces
+in your hair
+I'm sorry love but I don't
+really care
+'Cause we're on fire
+we're on on fire
+We're on fire now
+Yeah we're on fire we are on
+fire
+We're on fire now
+1 2 3
+I don't care what people say
+when we're together
+You know I wanna be the one who
+hold you when you sleep
+I just want it to be you and
+I forever
+I know you wanna leave so come
+on baby
+be with me so happily
+So happily
+1 2 3 4
+Oh oh oh oh
+Oh oh oh
+We're on fire now
+Oh oh oh oh
+Oh oh oh
+We're on fire now
+We're on fire
+Oh oh oh
+Oh oh oh
+We're on fire now
+I don't care what people say
+when we're together
+You know I wanna be the one who
+hold you when you sleep
+I just want it to be you and I
+forever
+I know you wanna leave so come
+on baby
+be with me so happily
+I don't care what people say
+when we're together
+You know I wanna be the one who
+hold you when you sleep
+I just want it to be you and
+I forever
+I know you wanna leave so come
+on baby
+be with me so happily
+```
