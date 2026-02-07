@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハッピリー",
+  "base_artist": "ワン・ダイレクション",
+  "createdAt": "2026-02-07T05:56:47.196943Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Happily",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Happily_One_Direction.txt"
+    }
+  ]
+}
